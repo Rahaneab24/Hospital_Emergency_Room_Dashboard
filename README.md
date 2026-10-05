@@ -30,19 +30,19 @@ Key Takeaways – written descriptive analysis and conclusions (shown below).<br
 Average wait time: 35.3 minutes, indicating room to improve patient flow.
 Average satisfaction score: 4.99 / 10, showing moderate satisfaction.
 
-### 🔁 Departmental Referrals
+#### 🔁 Departmental Referrals
 5,400 patients did not need a referral.
 Among those referred: General Practice (1,840), Orthopedics (995), Physiotherapy (276) and Cardiology (248).
 
-### 📅 Peak Busy Periods
+#### 📅 Peak Busy Periods
 Busiest days: Monday (1,377), Saturday (1,322), Tuesday (1,318).
 Busiest hours: 11 AM, 7 PM, 1 PM and 11 PM.
 
-### 👥 Patient Demographics
+#### 👥 Patient Demographics
 Age: 30–39 is the largest group (1,200), followed by 20–29 (1,188). Middle-aged patients (40–50) also form a significant share.<br>
 Race: White (2,571), African American (1,951), Multi-racial (1,557), Asian (1,060); 1,030 patients declined to identify.<br>
 
-### 🏨 Admission Patterns
+#### 🏨 Admission Patterns
 Admitted: 4,612 | Treated and released: 4,604 – a nearly even split.
 
 ## 💡 Recommendations
