@@ -1,6 +1,6 @@
 # 🏥 Hospital_Emergency_Room_Dashboard
 
-An interactive Excel dashboard that analyses 19 months of emergency room data (Apr 2023 – Oct 2024) to uncover patterns in patient wait times, satisfaction, referrals, peak hours and demographics, helping hospital management improve staffing and patient flow.
+An interactive dashboard that analyses 19 months of emergency room data (Apr 2023 – Oct 2024) to uncover patterns in patient wait times, satisfaction, referrals, peak hours and demographics, helping hospital management improve staffing and patient flow.
 
 ## 📖 Project Overview
 
