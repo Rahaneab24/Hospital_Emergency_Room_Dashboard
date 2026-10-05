@@ -26,7 +26,7 @@ Patient Details – drill-down into individual patient records.<br>
 Key Takeaways – written descriptive analysis and conclusions (shown below).<br>
 
 ## 🔍 Key Insights
-### ⏱ Wait Time & Satisfaction
+####  ⏱ Wait Time & Satisfaction
 Average wait time: 35.3 minutes, indicating room to improve patient flow.
 Average satisfaction score: 4.99 / 10, showing moderate satisfaction.
 
