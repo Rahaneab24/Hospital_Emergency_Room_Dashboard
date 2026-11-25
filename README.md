@@ -2,6 +2,9 @@
 
 An interactive dashboard that analyses 19 months of emergency room data (Apr 2023 – Oct 2024) to uncover patterns in patient wait times, satisfaction, referrals, peak hours and demographics, helping hospital management improve staffing and patient flow.
 
+<img width="1212" height="736" alt="image" src="https://github.com/user-attachments/assets/6766ee1b-594e-4075-a3f2-b7e4d2b2283f" />
+
+
 ## 📖 Project Overview
 
 Emergency rooms operate under constant pressure: unpredictable volumes, limited staff and patients who need care quickly. This project turns raw ER records into a clear, navigable dashboard that answers questions such as:
